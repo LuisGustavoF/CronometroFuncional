@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(158, 19, 19);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: larger;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    padding: 10px;
+    text-align: center;
+    margin: 110px;
+}
+
+button {
+    background-color: rgb(158, 19, 19);
+    color: white;
+    font-size: larger;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: none;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+select {
+    background-color: rgb(158, 19, 19);
+    color: white;
+    font-size: 32px;
+    cursor: pointer;
+    border: none;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    text-align: center;
+}
+
+main {
+    min-width: 300px;
+    max-width: 500px;
+    margin: auto;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    background-color: rgb(53, 51, 48);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.507);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    text-align: center;
+}
+
+aside {
+    background-color: rgb(158, 19, 19);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.281);
+    font-size: medium;
+}
+
+footer {
+    background-color: white;
+    color: rgb(53, 51, 48);
+    text-align: center;
+    font-size: 20px;
+}
